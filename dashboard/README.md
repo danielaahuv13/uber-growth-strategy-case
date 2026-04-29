@@ -50,7 +50,7 @@ If the tunnel says "503 Tunnel Unavailable":
 
 These cascade to every chart on the page. Filtered row count and a data-quality expander sit at the bottom of the sidebar.
 
-## Pay-day logic
+## Payday logic
 
 Mexican workers get paid twice a month, on the 15th and the last day. When those land on a Saturday or Sunday, employers usually pay on the preceding Friday so the money is in hand before the weekend. The dashboard applies that shift, so the "PAY DAY" markers on the trend chart and the day zero point on the payday cycle chart use the effective pay date, not the calendar date.
 
