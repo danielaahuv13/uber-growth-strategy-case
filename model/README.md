@@ -22,6 +22,7 @@ The flow:
 3. **Run the cell that writes `model_app.py`** to disk.
 4. **Launch the model dashboard on port 8502** (so it doesn't clash with the main dashboard on 8501).
 5. **Open a separate localtunnel on port 8502** and click through to the model dashboard.
+6. **If that doesn´t work just follow the cell orders and there shouldn't be any problem**
 
 You can have both dashboards running at the same time. Two tunnels, two URLs, two browser tabs.
 
